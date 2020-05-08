@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: ResultParser.ResultParser
+Class-Path: lib/poi-3.6-20091214.jar
+
